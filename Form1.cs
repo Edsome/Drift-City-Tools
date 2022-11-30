@@ -23,7 +23,7 @@ namespace Drift_City_Tools
             InitializeComponent();
         }
 
-        // Mathod Below
+        // Method Below
         // ----------------------------------------- //
         // Will Calculate The Result From User's Input
         private void GetAuctionHouseCalculationResult()
